@@ -12,3 +12,7 @@ Logistic Regression Ex2
 Multi-class classification and Neural Networks
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex3)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex3%20python/Multi-class%20classification%20and%20Neural%20networks.ipynb)]
+
+Neural Networks Learning
+[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex4)], 
+[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex4%20python/Neural-Networks-Learning.ipynb)]
