@@ -9,10 +9,14 @@ Logistic Regression Ex2
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex2)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex2%20python/Logistic%20Regression.ipynb)]
 
-Multi-class classification and Neural Networks
+Multi-class classification and Neural Networks Ex 3
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex3)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex3%20python/Multi-class%20classification%20and%20Neural%20networks.ipynb)]
 
-Neural Networks Learning
+Neural Networks Learning Ex 4
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex4)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex4%20python/Neural-Networks-Learning.ipynb)]
+
+Regularized linear regression and Bias Vs VarianceEx 5
+[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex5)], 
+[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex5%20python/Regularized-Linear-Regression-BiasVsVariance.ipynb)]
