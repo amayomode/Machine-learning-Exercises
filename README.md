@@ -17,6 +17,10 @@ Neural Networks Learning Ex 4
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex4)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex4%20python/Neural-Networks-Learning.ipynb)]
 
-Regularized linear regression and Bias Vs VarianceEx 5
+Regularized linear regression and Bias Vs Variance Ex 5
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex5)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex5%20python/Regularized-Linear-Regression-BiasVsVariance.ipynb)]
+
+Support Vector Machines Ex 6
+[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex6)], 
+[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex6%20python/SupportVectorMachine.ipynb)]
