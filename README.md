@@ -1,5 +1,6 @@
 # Machine-learning-Exercises
-Completed exercise on Andrew Ng's Introductory course to machine learning.
+Completed exercises on Andrew Ng's course on machine learning.
+Both Octave and python translations of the original exercises .
 
 Linear Regression Ex1: 
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex1) ], 
