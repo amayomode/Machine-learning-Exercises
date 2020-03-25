@@ -25,3 +25,8 @@ Regularized linear regression and Bias Vs Variance Ex 5
 Support Vector Machines Ex 6
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex6)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex6%20python/SupportVectorMachine.ipynb)]
+
+KMeans Clustering and PCA Ex 7
+[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex7)], 
+[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex7%20python/KmeansAndPCA.ipynb)]
+
