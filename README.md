@@ -4,15 +4,14 @@ Completed exercises on Andrew Ng's course on machine learning.
 Both Octave and Python implementations of the original exercises.
 
 1.Linear Regression Ex1: 
-      a.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex1)] 
-  
-   2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex1%20python/Linear%20Regression.ipynb)]
+
+   *a.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex1)]* 
+   *b.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex1%20python/Linear%20Regression.ipynb)]*
 
 2.Logistic Regression Ex2:
 
-   1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex2)]
-  
-   2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex2%20python/Logistic%20Regression.ipynb)]
+   *a.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex2)]
+   b.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex2%20python/Logistic%20Regression.ipynb)]*
 
 3.Multi-class classification and Neural Networks Ex 3:
 
