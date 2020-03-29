@@ -31,3 +31,6 @@ KMeans Clustering and PCA Ex 7
 [[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex7)], 
 [[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex7%20python/KmeansAndPCA.ipynb)]
 
+Anomaly Detection and Recommender Systems Ex 8
+[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex8)], 
+[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex8%20python/Anomaly%20Detection%20and%20Recommender%20Systems.ipynb)]
