@@ -3,49 +3,48 @@ Completed exercises on Andrew Ng's course on machine learning.
 
 Both Octave and Python implementations of the original exercises.
 
-Linear Regression Ex1: 
-
-   1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex1)] 
+1.Linear Regression Ex1: 
+      a.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex1)] 
   
    2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex1%20python/Linear%20Regression.ipynb)]
 
-Logistic Regression Ex2:
+2.Logistic Regression Ex2:
 
    1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex2)]
   
    2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex2%20python/Logistic%20Regression.ipynb)]
 
-Multi-class classification and Neural Networks Ex 3:
+3.Multi-class classification and Neural Networks Ex 3:
 
    1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex3)]
   
    2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex3%20python/Multi-class%20classification%20and%20Neural%20networks.ipynb)]
 
-Neural Networks Learning Ex 4:
+4.Neural Networks Learning Ex 4:
 
    1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex4)]
   
    2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex4%20python/Neural-Networks-Learning.ipynb)]
 
-Regularized linear regression and Bias Vs Variance Ex 5:
+5.Regularized linear regression and Bias Vs Variance Ex 5:
 
    1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex5)]
   
    2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex5%20python/Regularized-Linear-Regression-BiasVsVariance.ipynb)]
 
-Support Vector Machines Ex 6:
+6.Support Vector Machines Ex 6:
 
    1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex6)]
 
    2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex6%20python/SupportVectorMachine.ipynb)]
 
-KMeans Clustering and PCA Ex 7:
+7.KMeans Clustering and PCA Ex 7:
 
    1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex7)]
   
    2.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex7%20python/KmeansAndPCA.ipynb)]
 
-Anomaly Detection and Recommender Systems Ex 8:
+8.Anomaly Detection and Recommender Systems Ex 8:
 
    1.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex8)]
   
