@@ -20,8 +20,8 @@ Both Octave and Python implementations of the original exercises.
 
 ### 4.Neural Networks Learning Ex 4:
 
-   *a.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex4)]
-   b.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex4%20python/Neural-Networks-Learning. ipynb)]*
+   *a.[[Octave version](https://github.com/amayomode/Machine-learning-Exercises/tree/master/ex4)]*
+   *b.[[Python Version](https://github.com/amayomode/Machine-learning-Exercises/blob/master/ex4%20python/Neural-Networks-Learning. ipynb)]*
 
 ### 5.Regularized linear regression and Bias Vs Variance Ex 5:
 
